@@ -200,6 +200,13 @@ textarea.input {
   bottom: 0;
   background-size: cover;
   z-index: -1;
+  background-image:url(../img/b8.png);
+}
+
+@media (max-width: 420px) {
+  .section-bg {
+    background-image:url(../img/mobb1.png);
+  }
 }
 
 .section-title {
