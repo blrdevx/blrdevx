@@ -548,6 +548,8 @@ textarea.input {
   position: relative;
   cursor: pointer;
   margin-bottom: 30px;
+  width: 345px;
+  height: 498.33px;
 }
 
 .speaker:after {
